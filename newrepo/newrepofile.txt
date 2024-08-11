@@ -1,0 +1,1 @@
+This file is going in git-learn-repo whose name is set as notorigin in newrepo direectory in local
